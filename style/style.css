@@ -1,0 +1,20 @@
+.la{
+    
+    
+    border: 3px solid blue;
+
+}
+.pic{
+    width: 300px;
+    margin: 10px;
+    padding: 20px;
+}
+.p{
+    margin: 0%;
+    gap:calc(0);
+    /* padding: 0; */
+}
+.but{
+    display: inline-block;
+    margin: 10px ;
+}
